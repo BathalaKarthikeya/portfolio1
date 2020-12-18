@@ -1,0 +1,23 @@
+h1{
+    color:brown;
+
+}
+*{
+    color:crimson;
+    /* background-color:floralwhite; */
+    border:solid;
+}
+.header{
+    display:flex;
+    justify-content:center;
+    background-color:blue;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+.social{
+    display:flex;
+    justify-content:center;
+}
